@@ -28,7 +28,7 @@ viber = Api(BotConfiguration(
   name='LaravelBot', #optional can be left empty
   #avatar='http://link-to-your/avatar.png', #optional can be left empty
   avatar='https://www.viber.com/app/uploads/Legcat.1517733927.gif', #optional can be left empty
-  auth_token='47f988adc4a7d2e7-6190b85cad5a2bec-2236ac21c07b5e74' #this is your token
+  auth_token='47f988adc4a7d2e98098u09-6190b85cad5a2bec-2236ac21c07b5e74' #this is your token
 ))
 
 @app.route('/', methods=['POST'])
